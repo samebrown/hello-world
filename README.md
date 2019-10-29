@@ -2,5 +2,6 @@
 Sam Brown Introduction
 Name: Sam Brown
 Major: MSDCA - Masters Digital Communication Analytics
+
 Favorite Food:
-![Image of TacoSalad](https://realhousemoms.com/wp-content/uploads/Taco-Salad-Easy-Dinner-Recipe-HERO.jpg)
+(https://cdn.loveandlemons.com/wp-content/uploads/2019/05/IMG_18225-taco-salad-close.jpg)
